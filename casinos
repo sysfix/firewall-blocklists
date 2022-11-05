@@ -1,0 +1,27 @@
+# Title: Additional Gambling hosts
+# Updated Nov 5, 2022
+
+# [evo-games.com]
+0.0.0.0 evo-games.com
+0.0.0.0 onecasino.evo-games.com
+
+# [onecasino.com]
+0.0.0.0 nl.onecasino.com
+0.0.0.0 onecasino.com
+
+# [casinobonus.nl]
+0.0.0.0 casinobonus.nl
+
+# [711.nl]
+0.0.0.0 emea-711casino.netmng.com
+0.0.0.0 711.nl
+0.0.0.0 www.711.nl
+
+# [hollandcasino.nl]
+0.0.0.0 hollandcasino.nl
+0.0.0.0 www.hollandcasino.nl
+0.0.0.0 widgets.hollandcasino.nl
+0.0.0.0 login.hollandcasino.nl
+
+# [hollandcasino.zendesk.com]
+0.0.0.0 hollandcasino.zendesk.com
