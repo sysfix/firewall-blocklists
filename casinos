@@ -8,6 +8,7 @@
 # [onecasino.com]
 0.0.0.0 nl.onecasino.com
 0.0.0.0 onecasino.com
+0.0.0.0 www.onecasino.com
 
 # [casinobonus.nl]
 0.0.0.0 casinobonus.nl
@@ -22,6 +23,8 @@
 0.0.0.0 www.hollandcasino.nl
 0.0.0.0 widgets.hollandcasino.nl
 0.0.0.0 login.hollandcasino.nl
+0.0.0.0 sportswidget.hollandcasino.nl
+
 
 # [hollandcasino.zendesk.com]
 0.0.0.0 hollandcasino.zendesk.com
